@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Variáveis de cor direto no CSS no padrão v4 */
+@theme {
+  --color-brand-blue: #002D72;
+  --color-layout-bg: #F7F8FA;
+}
+
+body {
+  background-color: var(--color-layout-bg);
+  color: #333333;
+}
