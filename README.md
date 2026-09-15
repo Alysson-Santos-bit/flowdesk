@@ -26,7 +26,7 @@ Para rodar este projeto em sua máquina local, certifique-se de ter o **[Node.js
 
 ### 1. Clonar o repositório
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO_NO_GITHUB>
+git clone <https://github.com/Alysson-Santos-bit/flowdesk>
 cd flowdesk
 
 2. Instalar as dependências
@@ -53,4 +53,4 @@ src/
 🌐 Deploy Público
 O sistema encontra-se em produção e pode ser acessado publicamente através da plataforma Vercel:
 
-🔗 Acessar o FlowDesk: [O LINK DA VERCEL ENTRARÁ AQUI]
+🔗 Acessar o FlowDesk: [https://flowdesk-bit.vercel.app/]
